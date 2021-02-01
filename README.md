@@ -1,2 +1,3 @@
 # Tutorial
-tutorial repository
+
+Hi, I'm Minji.
